@@ -80,8 +80,8 @@ public class Main {
         System.out.println("\n" +
                 BLUE_BRIGHT +
                 " Hello, my name is David " +
-                RESET
+                RESET		
         );
-
+	System.out.println(RED_BOLD_BRIGHT + "\n Hi brother, I am Alexandre. How are you?" + RESET);
     }
 }
