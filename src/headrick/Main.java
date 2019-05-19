@@ -85,5 +85,6 @@ public class Main {
 	System.out.println(RED_BOLD_BRIGHT + "\n Hi brother, I am Alexandre. How are you?" + RESET);
 
         System.out.println(GREEN_BOLD_BRIGHT + "\nHello David and Alexandre, I like these colors. Thanks for sharing" + RESET);
+	System.out.println(PURPLE_BRIGHT + "\n Hi David, I like purple, I am Ivette" + RESET);
     }
 }
